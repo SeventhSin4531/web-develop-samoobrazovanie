@@ -4,6 +4,7 @@ p{
 }
 .container{
     margin: 20px;
+    margin-top: 50px;
     display: inline-block;
     text-align: center;
     background-color: rgb(87, 87, 87);
